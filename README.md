@@ -1,4 +1,4 @@
-# Next.js E-Commerce template
+![ecommerce1](https://github.com/kenchigozie23/ecommerce/assets/111024479/8643f593-0adb-4d9c-90e1-abadf463ea3b)# Next.js E-Commerce template
 
 Ready to use [Next.js](https://nextjs.org) (TypeScript) starter kit for high-performance 
 e-commerce websites 🔥.
@@ -7,7 +7,7 @@ Free 👍. Ready to use 😎. Just clone & deploy! 🤘
 
 ## Online Demo ⚡️
 
-[blank.demos.my-boundless.app](https://blank.demos.my-boundless.app/) - deployed to Netlify.
+[blank.demos.my-boundless.app](https://ecommerce-stunning.vercel.app/) - deployed to Vercel.
 
 ## About Boundless Commerce
 
@@ -53,10 +53,24 @@ Shopping cart with a nice animated widget and [Fully customizable React checkout
 
 User friendly mobile version.
 
-## Video tutorial
+## Image Sample.
+![ecommerce1](https://github.com/kenchigozie23/ecommerce/assets/111024479/2d11d20c-d97c-4ade-9818-065cf9f6790a)
+<br/>
 
-[![How to build React E-commerce Website with Next.js, TypeScript, and Redux in 2023 (Tutorial)](https://img.youtube.com/vi/BOZRLereGig/0.jpg)](https://youtu.be/BOZRLereGig "How to build React E-commerce Website with Next.js, TypeScript, and Redux in 2023 (Tutorial)")
+![ecommerce2](https://github.com/kenchigozie23/ecommerce/assets/111024479/728e5b6f-6885-4043-906b-0366878d8d31)
+<br/>
+![ecommerce3](https://github.com/kenchigozie23/ecommerce/assets/111024479/a596ad02-94de-470b-bf9d-2175d3bd6202)
+<br/>
+![ecommerce4](https://github.com/kenchigozie23/ecommerce/assets/111024479/cb278d96-bf1a-44f7-a431-a5cd7f8c5ca6)
+<br/>
 
----
-
+## Tech Stack Used.
+<ul>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>JAVASCRIPT</li>
+	<li>TYPESCRIPT</li>
+	<li>REDUX</li>
+	<li>NEXT JS</li>
+</ul>
 [NextJS eCommerce templates](https://boundless-commerce.com/templates) - Free. Ready to use. Just clone & deploy!

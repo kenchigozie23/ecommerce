@@ -34,6 +34,17 @@
 			line-height: 22px;
 			margin-bottom: 0;
 		}
+
+	}
+	&__logo-img{
+		display: block;
+		max-width: 200px;
+		height: auto;
+
+	@include media-breakpoint-up(md) {
+			max-width: 150px;
+		}
+
 	}
 
 	&__icon-w-link {

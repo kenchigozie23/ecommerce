@@ -24,7 +24,7 @@ export default function SocialButtons() {
 					</a>
 				</div>
 			</div>
-			<p className='text-muted'>All rights reserved. © Boundless-Commerce</p>
+			<p className='text-muted'>All rights reserved. © Shopper's Delight</p>
 		</>
 	);
 }

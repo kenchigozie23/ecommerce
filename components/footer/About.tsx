@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import logoImg from '../../assets/logo.svg';
+import logoImg from '../../assets/ecom.png';
 
 export default function FooterAbout({companyTitle}: {companyTitle?: string}) {
 	const title = companyTitle || 'Your Company LLC.';
@@ -8,7 +8,7 @@ export default function FooterAbout({companyTitle}: {companyTitle?: string}) {
 			<div className='page-footer__logo'>
 				<Link href='/'>
 					<a>
-						<img src={logoImg.src} width={logoImg.width} height={logoImg.height} alt={title} />
+						<img src={logoImg.src} width={logoImg.width} height={logoImg.height} alt={title} className='page-footer__logo-img' />
 					</a>
 				</Link>
 			</div>

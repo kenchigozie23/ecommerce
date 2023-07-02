@@ -68,6 +68,7 @@ User friendly mobile version.
 <ul>
 	<li>HTML</li>
 	<li>CSS</li>
+	<li>SCSS</li>
 	<li>JAVASCRIPT</li>
 	<li>TYPESCRIPT</li>
 	<li>REDUX</li>

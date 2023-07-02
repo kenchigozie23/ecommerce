@@ -51,7 +51,7 @@ export default function MainLayout({children, title, metaData, mainMenu, footerM
 				<meta property='og:image' content={imgUrl || (shopBaseUrl + '/og.jpeg')} />
 				{description && <meta property='og:description' content={description} />}
 
-				<title>{title || 'Boundless-Commerce Shop Example'}</title>
+				<title>{title || "Shopper's Delight "}</title>
 
 				<link rel='preconnect' href={process.env.BOUNDLESS_API_BASE_URL || 'https://api.boundless-commerce.com'} crossOrigin={'crossOrigin'} />
 				{noIndex && <meta name='robots' content='noindex' />}

@@ -20,7 +20,7 @@ export default function IndexPage({products, mainMenu, footerMenu, basicSettings
 		<MainLayout mainMenu={mainMenu} footerMenu={footerMenu} basicSettings={basicSettings}>
 			<div className='container'>
 				<MainPageSlider />
-						<h1 className='page-heading page-heading_h1  page-heading_m-h1'>Boundless store</h1>
+						<h1 className='page-heading page-heading_h1  page-heading_m-h1'>Shopper's Delight</h1>
 						<ProductsList products={products} query={{}}/>
 			</div>
 			<div className='container'>

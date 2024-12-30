@@ -24,7 +24,7 @@ export default function SocialButtons() {
 					</a>
 				</div>
 			</div>
-			<p className='text-muted'>All rights reserved. © Shopper's Delight</p>
+			<p className='text-muted'>All rights reserved. © Knas & Esccay Tech Trading</p>
 		</>
 	);
 }
